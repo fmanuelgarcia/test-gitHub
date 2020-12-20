@@ -1,1 +1,1 @@
-Esta es la prubea con gitHub ya que cambiaron master por main !!
+Tuve muchos problemas porque cambiaron el master por el main!!
